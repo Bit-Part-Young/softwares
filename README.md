@@ -2,6 +2,6 @@
 
 - v2ray 
 
-- IDM
+- IDM(cracked)
 
-- typora
+- typora(cracked)
