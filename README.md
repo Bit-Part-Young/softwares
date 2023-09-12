@@ -5,3 +5,5 @@
 - IDM(cracked)
 
 - typora(cracked)
+
+- WinRAR(cracked)
