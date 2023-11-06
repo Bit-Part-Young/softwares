@@ -2,9 +2,9 @@
 
 - v2ray 
 
-- IDM(cracked)
+- Internet Download Manager(cracked)
 
-- typora(cracked)
+- Typora(cracked)
 
 - WinRAR(cracked)
 
