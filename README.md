@@ -4,6 +4,6 @@
 
 - Internet Download Manager(cracked)
 
-- Typora(cracked)
+- Typora(Win & Mac; cracked)
 
 - WinRAR(cracked)
