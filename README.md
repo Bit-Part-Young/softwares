@@ -1,9 +1,12 @@
 # softwares
 
-- v2ray
+- v2rayn(Win)
 
-- Internet Download Manager(cracked)
+- Internet Download Manager(Win; cracked)
 
 - Typora(Win & Mac; cracked)
 
-- WinRAR(cracked)
+- WinRAR(Win; cracked)
+
+- tree(Linux)
+
