@@ -2,6 +2,8 @@
 
 - v2rayn(Win)
 
+- clashpremium-linux-amd64(Linux)
+
 - Internet Download Manager(Win; cracked)
 
 - Typora(Win & Mac; cracked)
